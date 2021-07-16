@@ -1,0 +1,9 @@
+**/__pycache__/
+**/*.py[cod]
+**/*.log
+**/*.synctex.gz
+**/*.aux
+**/*.bbl
+**/*.out
+**/*.blg
+**/*-eps-converted-to.pdf
